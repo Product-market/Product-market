@@ -3,10 +3,10 @@
 
 
 
- <p>📈 Skilled in Data Analytics</p>
- <p>💡 Enthusiastic about uncovering insights and solving user problems</p>
- <p>🏆 Internal motivation and hard skills create synergy, driving personal efficiency and delivering exceptional business results</p>
- <p>📚 Outside of work, I enjoy running and downhill skiing, while in the past, I achieved the first youth category in competitive rowing. I also have a passion for reading and expanding my knowledge</p>
+ <p>📈  Skilled in Data Analytics</p>
+ <p>💡  Enthusiastic about uncovering insights and solving user problems</p>
+ <p>🏆  Internal motivation and hard skills create synergy, driving personal efficiency and delivering exceptional business results</p>
+ <p>📚  Outside of work, I enjoy running and downhill skiing, while in the past, I achieved the first youth category in competitive rowing. I also have a passion for reading and expanding my knowledge</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
