@@ -3,14 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=product-market&label=Profile%20views&color=0e75b6&style=flat" alt="product-market" /> </p>
 
- 📈 Skilled in Data Analytics
- 💡 Enthusiastic about uncovering insights and solving user problems
- 🏆 Internal motivation and hard skills create synergy, driving personal efficiency and delivering exceptional business results
- 📚 Outside of work, I enjoy running and downhill skiing, while in the past, I achieved the first youth category in competitive rowing. I also have a passion for reading and expanding my knowledge
+ <p>📈 Skilled in Data Analytics</p>
+ <p>💡 Enthusiastic about uncovering insights and solving user problems</p>
+ <p>🏆 Internal motivation and hard skills create synergy, driving personal efficiency and delivering exceptional business results</p>
+ <p>📚 Outside of work, I enjoy running and downhill skiing, while in the past, I achieved the first youth category in competitive rowing. I also have a passion for reading and expanding my knowledge</p>
 
- 📧 Connect with me **product.mindset.pro@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:product.mindset.pro@gmail.com</h3>
 <p align="left">
 </p>
 
