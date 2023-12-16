@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Natalia ✌️</h1>
-<h3 align="center">A passionate product and marketing manager with a keen interest in a Big Data, ML, AI</h3>
+<h1 align="left">Hi, I'm Natalia ✌️</h1>
+<h3 align="left">A passionate product and marketing manager with a keen interest in a Big Data, ML, AI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=product-market&label=Profile%20views&color=0e75b6&style=flat" alt="product-market" /> </p>
 
@@ -8,9 +8,8 @@
  <p>🏆 Internal motivation and hard skills create synergy, driving personal efficiency and delivering exceptional business results</p>
  <p>📚 Outside of work, I enjoy running and downhill skiing, while in the past, I achieved the first youth category in competitive rowing. I also have a passion for reading and expanding my knowledge</p>
 
-
-<h3 align="left">Connect with me:product.mindset.pro@gmail.com</h3>
-<p align="left">
+<h3 align="left">Connect with me:</h3>
+<p align="left"> product.mindset.pro@gmail.com
 </p>
 
 
