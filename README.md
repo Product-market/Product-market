@@ -4,7 +4,7 @@
 
 
 <h1 align="left">Hi, I'm Natalia ✌️</h1>
-<h3 align="left">A passionate product and marketing manager with a keen interest in a Big Data, ML, AI</h3>
+<h3 align="left">A product and marketing manager with a keen interest in a Big Data, ML, AI</h3>
 
 
 
