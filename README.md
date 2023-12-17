@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://giphy.com/gifs/world-vr-worldvr-YTKtvug3v2nxiQcAlp" width="100"/>
+</div>
 <h1 align="left">Hi, I'm Natalia ✌️</h1>
 <h3 align="left">A passionate product and marketing manager with a keen interest in a Big Data, ML, AI</h3>
 
