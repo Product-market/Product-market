@@ -1,5 +1,5 @@
 <div id="header" align="left">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTF3Zm96OHI2NDV5Y3ZqbGQ2aGZ5MHQybXdxYjMxN2tvaHQ0dGFhcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YTKtvug3v2nxiQcAlp/giphy.gif" height="200" width="900"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzgwMzJyZnNkbnh5dm5lOXRnMTgzd25yc2o1dnI3Zm1sOTI3eDM4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/w27R8x4lxV28O5RY6m/giphy.gif" height="200" width="1000"/>
 </div>
 
 <h1 align="left">Hi, I'm Natalia ✌️</h1>
