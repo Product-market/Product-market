@@ -1,6 +1,4 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://giphy.com/gifs/world-vr-worldvr-YTKtvug3v2nxiQcAlp" width="100"/>
-</div>
+<iframe src="https://giphy.com/embed/YTKtvug3v2nxiQcAlp" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/world-vr-worldvr-YTKtvug3v2nxiQcAlp">via GIPHY</a></p>
 <h1 align="left">Hi, I'm Natalia ✌️</h1>
 <h3 align="left">A passionate product and marketing manager with a keen interest in a Big Data, ML, AI</h3>
 
